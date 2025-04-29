@@ -1,0 +1,159 @@
+body {
+    background-color: #1b0326 !important;
+}
+
+
+#login {
+    color: crimson;
+    font-size: 20px;
+    font-weight: 50;
+    position: relative;
+    margin-top: 4%;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#login1 {
+    color: crimson;
+    font-size: 20px;
+    font-weight: 50;
+    position: relative;
+    margin-top: 4%;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#merch {
+    font-family: "customfont", sans-serif;
+    font-style: italic;
+    color: white;
+    position: absolute;
+    left: 33%;
+    top: 150px;
+    font-size: 200px;
+}
+
+#hr {
+    height: 1px;
+    width: 55%;
+    background-color: crimson;
+    position: absolute;
+    top: 400px;
+    left: 24%;
+}
+
+img {
+    position: absolute;
+}
+
+#fourtry {
+    top: 450px;
+    left: 25%;
+}
+
+#vinyl {
+    top: 450px;
+    left: 54%;
+}
+
+#t-shirt {
+    top: 1000px;
+    left: 25%;
+}
+
+#another-shirt {
+    top: 1000px;
+    left: 54%;
+}
+
+#other-vinyl {
+    top: 1550px;
+    left: 25%;
+}
+
+#bag {
+    color: white;
+    position: absolute;
+    top: 910px;
+    left: 33%;
+}
+
+#price1 {
+    color: white;
+    position: absolute;
+    top: 940px;
+    left: 35.5%;
+}
+
+#vinyl1 {
+    color: white;
+    position: absolute;
+    top: 910px;
+    left: 61%;
+}
+
+#price2 {
+    color: white;
+    position: absolute;
+    top: 940px;
+    left: 65%;
+}
+
+#t-shirt1 {
+    color: white;
+    position: absolute;
+    top: 1460px;
+    left: 33%;
+}
+
+#price3 {
+    color: white;
+    position: absolute;
+    top: 1490px;
+    left: 35.5%;
+}
+
+#another-shirt1 {
+    color: white;
+    position: absolute;
+    top: 1460px;
+    left: 61%;
+} 
+
+#price4 {
+    color: white;
+    position: absolute;
+    top: 1490px;
+    left: 65%;
+}
+
+#other-vinyl1 {
+    color: white;
+    position: absolute;
+    top: 2015px;
+    left: 31%;
+}
+
+#price5 {
+    color: white;
+    position: absolute;
+    top: 2045px;
+    left: 34.5%;
+}
+
+#footer {
+    color: crimson;
+    width: 500px;
+    position: absolute;
+    top: 2245px;
+    left: 40%;
+    position: relative;
+    margin-bottom: 15%;
+    font-size: 15px;
+}
+
+#helper {
+    position: absolute;
+    top: 2345px;
+
+}

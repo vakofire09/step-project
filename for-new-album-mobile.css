@@ -1,0 +1,284 @@
+@media screen and (max-width: 768px) {
+    #pills {
+        position: absolute;
+        opacity: 0;
+        width: 10px;
+    }
+
+    #login {
+        opacity: 0;
+        position: absolute;
+    }
+
+    #login1 {
+            position: absolute;
+            left: 150px;
+            color: crimson;
+            font-size: 40px;
+            margin-right: 0;
+    }
+
+    #hr {
+        top: 280px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #music {
+        font-size: 100px;
+        left: 10%;
+    }
+
+    #bl2 {
+        left: 2%;
+        top: 300px;
+        width: 350px;
+    }
+
+    #buy {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    #share {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    #buy1 {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    #share1 {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    #mist {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    #name {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    #hr1 {
+        top: 680px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play {
+        top:  700px;
+        left: 5%;
+    }
+
+    #stuck {
+        top: 707px;
+        left: 10%;
+    }
+
+    #time {
+        top: 1030px;
+    }
+
+    #hr2 {
+        top: 760px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play1 {
+        top: 780px;
+        left: 5%;
+    }
+
+    #stuck1 {
+        top: 787px;
+        left: 10%;
+    }
+
+    #hr3 {
+        top: 840px;
+        left: 2%;
+        width: 90%;
+    }
+    
+    #play2 {
+        top: 860px;
+        left: 5%;
+    }
+
+    #stuck2 {
+        top: 867px;
+        left: 10%;
+    }
+
+    #hr4 {
+        top: 920px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play3 {
+        top: 940px;
+        left: 5%;
+    }
+
+    #stuck3 {
+        top: 947px;
+        left: 10%;
+    }
+
+    #hr5 {
+        top: 1000px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play4 {
+        top: 1020px;
+        left: 5%;
+    }
+
+    #stuck4 {
+        top: 1027px;
+        left: 10%;
+    }
+
+    #hr6 {
+        top: 1140px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #ptt {
+        width: 350px;
+        left: 2%;
+    }
+
+    #p-t-t {
+        opacity: 0;
+        left: 0;
+        top: 0;
+    }
+
+    #name1 {
+        opacity: 0;
+        left: 0;
+        top: 0;
+    }
+
+    #hr7 {
+        opacity: 0;
+    }
+
+    #hr8 {
+        top: 1600px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play5 {
+        top: 1620px;
+        left: 5%;
+    }
+
+    #stuck5 {
+        top: 1627px;
+        left: 10%;
+    }
+
+    #hr9 {
+        top: 1680px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play6 {
+        top: 1700px;
+        left: 5%;
+    }
+
+    #stuck6 {
+        top: 1707px;
+        left: 10%;
+    }
+    
+    #hr10 {
+        top: 1760px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play7 {
+        top: 1780px;
+        left: 5%;
+    }
+
+    #stuck7 {
+        top: 1787px;
+        left: 10%;
+    }
+
+    #hr11 {
+        top: 1840px;
+        left: 2%;
+        width: 90%;
+    }
+
+    #play8 {
+        top: 1860px;
+        left: 5%;
+    }
+
+    #stuck8 {
+        top: 1867px;
+        left: 10%;
+    }
+
+    #time5 {
+        top: 1627px;
+    }
+
+    #time6 {
+        top: 1707px;
+    }
+
+    #time7 {
+        top: 1787px;
+    }
+
+    #time8 {
+        top: 1867px;
+    }
+
+    #hr12 {
+        opacity: 0;
+    }
+
+    #footer {
+        top: 1950px;
+        width: 300px;
+        left: 8%;
+    }
+
+    #helper {
+        top: 2020px;
+    }
+}

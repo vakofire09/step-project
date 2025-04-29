@@ -1,0 +1,147 @@
+@media screen and (max-width: 768px) {
+    #pills {
+        position: absolute;
+        opacity: 0;
+        width: 10px;
+    }
+
+    #login {
+        opacity: 0;
+        position: absolute;
+    }
+
+    #login1 {
+            position: absolute;
+            left: 150px;
+            color: crimson;
+            font-size: 40px;
+            margin-right: 0;
+    }
+
+    #merch {
+        font-size: 70px;
+        position: absolute;
+        top: 150px;
+        left: 20%;
+    }
+
+    #hr {
+        position: absolute;
+        top: 240px;
+        left: 10%;
+        width: 80%;
+    }
+
+    img {
+        width: 350px;
+        position: absolute;
+    }
+
+    #fourtry {
+        top: 270px;
+        left: 5%;
+    }
+    
+    #vinyl {
+        top: 700px;
+        left: 5%;
+    }
+    
+    #t-shirt {
+        top: 1150px;
+        left: 5%;
+    }
+    
+    #another-shirt {
+        top: 1580px;
+        left: 5%;
+    }
+    
+    #other-vinyl {
+        top: 2010px;
+        left: 5%;
+    }
+    
+    #bag {
+        color: white;
+        position: absolute;
+        top: 630px;
+        left: 33%;
+    }
+    
+    #price1 {
+        color: white;
+        position: absolute;
+        top: 660px;
+        left: 44%;
+    }
+    
+    #vinyl1 {
+        color: white;
+        position: absolute;
+        top: 1070px;
+        left: 26%;
+    }
+    
+    #price2 {
+        color: white;
+        position: absolute;
+        top: 1100px;
+        left: 44%;
+    }
+    
+    #t-shirt1 {
+        color: white;
+        position: absolute;
+        top: 1510px;
+        left: 33%;
+    }
+    
+    #price3 {
+        color: white;
+        position: absolute;
+        top: 1540px;
+        left: 45.5%;
+    }
+    
+    #another-shirt1 {
+        color: white;
+        position: absolute;
+        top: 1940px;
+        left: 26%;
+    } 
+    
+    #price4 {
+        color: white;
+        position: absolute;
+        top: 1970px;
+        left: 45%;
+    }
+    
+    #other-vinyl1 {
+        color: white;
+        position: absolute;
+        top: 2365px;
+        left: 26%;
+    }
+    
+    #price5 {
+        color: white;
+        position: absolute;
+        top: 2395px;
+        left: 43%;
+    }
+    
+    #footer {
+        position: absolute;
+        top: 2500px;
+        left: 35px;
+        font-size: 18px;
+        width: 300px;
+    }
+
+    #helper {
+        position: absolute;
+        top: 2510px;
+    }
+}

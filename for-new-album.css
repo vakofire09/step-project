@@ -1,0 +1,513 @@
+body {
+    background-color: #1b0326 !important;
+}
+
+#login {
+    color: crimson;
+    font-size: 20px;
+    font-weight: 50;
+    position: relative;
+    margin-top: 4%;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#login1 {
+    color: crimson;
+    font-size: 20px;
+    font-weight: 50;
+    position: relative;
+    margin-top: 4%;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+
+#music {
+    font-family: "customfont", sans-serif;
+    font-style: italic;
+    color: white;
+    position: absolute;
+    left: 35%;
+    top: 150px;
+    font-size: 200px;
+}
+
+#hr {
+    height: 1px;
+    width: 55%;
+    background-color: crimson;
+    position: absolute;
+    top: 400px;
+    left: 24%;
+}
+
+#bl2 {
+    width: 400px;
+    position: absolute;
+    top: 490px;
+    left: 26%;
+}
+
+#helper {
+    position: absolute;
+    top: 192s5px;
+}
+
+#mist {
+    font-family: "customfont", sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+    top: 470px;
+    left: 50%;
+}
+
+#name {
+    font-size: 15px;
+    font-weight: lighter;
+    color: white;
+    position: absolute;
+    top: 540px;
+    left: 49.8%;
+}
+
+#share {
+    color: crimson;
+    position: absolute;
+    top: 510px;
+    left: 65%;
+    opacity: .4;
+}
+
+#buy {
+    border-color: transparent;
+    background-color: crimson;
+    color: black;
+    padding: 10px;
+    cursor: auto;
+    position: absolute;
+    top: 490px;
+    left: 67%;
+    opacity: .4;
+}
+
+#hr1 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 600px;
+    left: 50%;
+}
+
+#play {
+    position: absolute;
+    top: 620px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck {
+    position: absolute;
+    top: 627px;
+    left: 52%;
+    color: white;
+}
+
+#time {
+    position: absolute;
+    top: 627px;
+    left: 72%;
+    color: white;
+}
+
+#hr2 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 680px;
+    left: 50%;
+}
+
+#play1 {
+    position: absolute;
+    top: 700px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck1 {
+    position: absolute;
+    top: 707px;
+    left: 52%;
+    color: white;
+}
+
+#time1 {
+    position: absolute;
+    top: 707px;
+    left: 72%;
+    color: white;
+}
+
+#hr3 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 760px;
+    left: 50%;
+}
+
+#play2 {
+    position: absolute;
+    top: 780px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck2 {
+    position: absolute;
+    top: 787px;
+    left: 52%;
+    color: white;
+}
+
+#time2 {
+    position: absolute;
+    top: 787px;
+    left: 72%;
+    color: white;
+}
+
+#hr4 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 840px;
+    left: 50%;
+}
+
+#play3 {
+    position: absolute;
+    top: 860px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck3 {
+    position: absolute;
+    top: 867px;
+    left: 52%;
+    color: white;
+}
+
+#time3 {
+    position: absolute;
+    top: 867px;
+    left: 72%;
+    color: white;
+}
+
+#hr5 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 920px;
+    left: 50%;
+}
+
+#play4 {
+    position: absolute;
+    top: 940px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck4 {
+    position: absolute;
+    top: 947px;
+    left: 52%;
+    color: white;
+}
+
+#time4 {
+    position: absolute;
+    top: 947px;
+    left: 72%;
+    color: white;
+}
+
+#hr6 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 1000px;
+    left: 50%;
+}
+
+.container:hover #play,
+.container:hover #stuck,
+.container:hover #time {
+    color: crimson;
+}
+
+.container:hover #play1,
+.container:hover #stuck1,
+.container:hover #time1 {
+    color: crimson;
+}
+
+.container:hover #play2,
+.container:hover #stuck2,
+.container:hover #time2 {
+    color: crimson;
+}
+
+.container:hover #play3,
+.container:hover #stuck3,
+.container:hover #time3 {
+    color: crimson;
+}
+
+.container:hover #play4,
+.container:hover #stuck4,
+.container:hover #time4 {
+    color: crimson;
+}
+
+#hr7 {
+    height: 1px;
+    width: 55%;
+    background-color: crimson;
+    position: absolute;
+    top: 1100px;
+    left: 24%;
+}
+
+#ptt {
+    width: 400px;
+    position: absolute;
+    top: 1200px;
+    left: 25%;
+}
+
+#p-t-t {
+    color: white;
+    font-family: "customfont", sans-serif;
+    font-style: italic;
+    position: absolute;
+    top: 1180px;
+    left: 50%;
+    font-size: 55px;
+}
+
+#name1 {
+    color: white;
+    position: absolute;
+    top: 1250px;
+    left: 50%;
+    font-size: 15px;
+}
+
+#share1 {
+    color: crimson;
+    position: absolute;
+    top: 1220px;
+    left: 65%;
+    opacity: .4;
+}
+
+#buy1 {
+    border-color: transparent;
+    background-color: crimson;
+    color: black;
+    padding: 10px;
+    cursor: auto;
+    position: absolute;
+    top: 1200px;
+    left: 67%;
+    opacity: .4;
+}
+
+#hr8 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 1300px;
+    left: 50%;
+}
+
+#play5 {
+    position: absolute;
+    top: 1320px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck5 {
+    position: absolute;
+    top: 1327px;
+    left: 52%;
+    color: white;
+}
+
+#time5 {
+    position: absolute;
+    top: 1327px;
+    left: 72%;
+    color: white;
+}
+
+#hr9 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 1380px;
+    left: 50%;
+}
+
+#play6 {
+    position: absolute;
+    top: 1400px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck6 {
+    position: absolute;
+    top: 1407px;
+    left: 52%;
+    color: white;
+}
+
+#time6 {
+    position: absolute;
+    top: 1407px;
+    left: 72%;
+    color: white;
+}
+
+#hr10 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 1460px;
+    left: 50%;
+}
+
+#play7 {
+    position: absolute;
+    top: 1480px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck7 {
+    position: absolute;
+    top: 1487px;
+    left: 52%;
+    color: white;
+}
+
+#time7 {
+    position: absolute;
+    top: 1487px;
+    left: 72%;
+    color: white;
+}
+
+#hr11 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 1540px;
+    left: 50%;
+}
+
+#play8 {
+    position: absolute;
+    top: 1560px;
+    left: 50%;
+    font-size: 40px;
+    color: white;
+}
+
+#stuck8 {
+    position: absolute;
+    top: 1567px;
+    left: 52%;
+    color: white;
+}
+
+#time8 {
+    position: absolute;
+    top: 1567px;
+    left: 72%;
+    color: white;
+}
+
+#hr12 {
+    height: 1px;
+    width: 25%;
+    background-color: crimson;
+    position: absolute;
+    top: 1620px;
+    left: 50%;
+}
+
+.container:hover #play5,
+.container:hover #stuck5,
+.container:hover #time5 {
+    color: crimson;
+}
+
+.container:hover #play6,
+.container:hover #stuck6,
+.container:hover #time6 {
+    color: crimson;
+}
+
+.container:hover #play7,
+.container:hover #stuck7,
+.container:hover #time7 {
+    color: crimson;
+}
+
+.container:hover #play8,
+.container:hover #stuck8,
+.container:hover #time8 {
+    color: crimson;
+}
+
+
+#footer {
+    color: crimson;
+    width: 500px;
+    position: absolute;
+    top: 1845px;
+    left: 40%;
+    position: relative;
+    margin-bottom: 15%;
+    font-size: 15px;
+}
+

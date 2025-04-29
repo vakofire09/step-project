@@ -1,0 +1,198 @@
+@media screen and (max-width: 768px) {
+
+    #first-head {
+        margin-top: 0;
+    }
+    .image-container {
+        position: relative;
+        margin: 0;
+        position:absolute;
+        top: 220px;
+        left: 90px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #pills {
+        position: absolute;
+        width: 20px;
+    }
+
+    #tani {
+        height: 750px;
+    }
+
+    body {
+        width: 100%;
+    }
+
+    ul {
+        opacity: 0;
+    }
+
+    #login {
+        opacity: 0;
+    }
+    
+    #login1 {
+        position: absolute;
+        left: 150px;
+        color: crimson;
+        font-size: 40px;
+        margin-right: 0;
+    }
+
+    #name {
+        font-size: 85px;
+        position: absolute;
+        top: 120px;
+        left: 10px;
+    }
+
+    #new {
+        position: absolute;
+        top: 350px;
+        margin-left: 25%;
+    }
+
+    .image-container {
+        position: absolute;
+    }
+
+    .bg-image {
+        width: 300px;
+        position: absolute;
+        left: -45px;
+        top: 270px;
+        }
+
+    .overlay-image {
+        position: absolute;
+        top: 280px;
+        left: -30px;
+        width: 220px;
+    }
+
+    #disc {
+        width: 250px;
+        position: absolute;
+        left: 140px;
+        top: 900px;
+    }
+    
+    #second {
+        height: 550px;
+    }
+
+    #vinyl {
+        font-size: 80px;
+        position: absolute;
+        top: 900px;
+        left: 20px;
+    }
+
+    #shop-now {
+        position: absolute;
+        top: 1200px;
+        left: -30px;
+    }
+
+    #third {
+        height: 550px;
+    }
+
+    #video {
+        font-size: 80px;
+        position: absolute;
+        top: 1500px;
+        left: 50px;
+    }
+
+    #watch {
+        position: absolute;
+        top: 1600px;
+        left: -30px;
+    }
+
+    #gigs {
+        font-size: 80px;
+        position: absolute;
+        top: 2100px;
+        left: 10px;
+    }
+
+    #list {
+        width: 300px;
+        position: absolute;
+        top: 2050px;
+        left: 90px;
+    }
+
+    #tour {
+        position: absolute;
+        top: 2300px;
+        left: -40px;
+    }
+
+    #geton {
+        font-size: 50px;
+        position: absolute;
+        top: 2600px;
+        left: 100px;
+    }
+
+
+    #submit {
+        position: absolute;
+        top: 2950px;
+        left: 50px;
+        width: 300px;
+        height: 50px;
+    }
+
+    #something {
+        position: absolute;
+        top: 2830px;
+        left: 100px;
+    }
+
+    #mail1 {
+        position: absolute;
+        top: 2750px;
+        left: 50px;
+        width: 320px;
+
+    }
+
+    hr {
+        position: absolute;
+        top: 2775px;
+        left: 50px;
+        width: 320px;
+    }
+
+    #formail1 {
+        position: absolute;
+        top: 2728px;
+        left: 50px;
+    }
+
+    #check {
+        position: absolute;
+        top: 2845px;
+        left: 50px;
+    }
+
+    #real {
+        position: absolute;
+        top: 3100px;
+        opacity: 0;
+    }
+    
+
+    #lol {
+        position: absolute;
+        top: 3100px;
+        left: 40px;
+    }
+}
